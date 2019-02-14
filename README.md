@@ -4,6 +4,6 @@ Mencoba memahamin untuk membuat API dari .Net Core.
 
 TODO:
 
-- [] Install dependency from cli
-- [] How to create endpoint
-- [] Build Shaping Response
+- [ ] Install dependency from cli
+- [ ] How to create endpoint
+- [ ] Build Shaping Response
